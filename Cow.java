@@ -1,4 +1,4 @@
 class Cow implements Animal 
 {     
-     //your code here
+   1  //your code here
 }
